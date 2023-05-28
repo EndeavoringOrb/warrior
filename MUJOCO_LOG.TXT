@@ -1,6 +1,0 @@
-Sat May 20 20:40:54 2023
-WARNING: mju_openResource: unknown file '/path/to/mjcf.xml'
-
-Sat May 20 21:17:25 2023
-WARNING: Nan, Inf or huge value in QACC at DOF 9. The simulation is unstable. Time = 0.0550.
-
